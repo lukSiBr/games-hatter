@@ -1,5 +1,5 @@
 # Games for Hatter
-![screenshot](screenshot.png)
+![screenshot](overview.png)
 ---
 ##### Extra game icons for the [Hatter](https://github.com/Mibea/Hatter) Icon Theme, because i care too much about theme/UI consistency
 ---
